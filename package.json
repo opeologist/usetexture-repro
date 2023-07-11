@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@juggle/resize-observer": "^3.4.0",
-    "@react-three/test-renderer": "^8.1.5",
+    "@react-three/test-renderer": "https://pkg.csb.dev/pmndrs/react-three-fiber/commit/d53233af/@react-three/test-renderer",
     "@types/jest": "^29.5.2",
     "jest": "^29.5.0",
     "jest-environment-jsdom": "^29.5.0"
